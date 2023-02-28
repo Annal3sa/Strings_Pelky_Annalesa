@@ -1,0 +1,14 @@
+C:\Users\annalesa.pelky\source\repos\Strings_Pelky_Annalesa\Strings_Pelky_Annalesa\bin\Debug\netcoreapp3.1\Strings_Pelky_Annalesa.exe
+C:\Users\annalesa.pelky\source\repos\Strings_Pelky_Annalesa\Strings_Pelky_Annalesa\bin\Debug\netcoreapp3.1\Strings_Pelky_Annalesa.deps.json
+C:\Users\annalesa.pelky\source\repos\Strings_Pelky_Annalesa\Strings_Pelky_Annalesa\bin\Debug\netcoreapp3.1\Strings_Pelky_Annalesa.runtimeconfig.json
+C:\Users\annalesa.pelky\source\repos\Strings_Pelky_Annalesa\Strings_Pelky_Annalesa\bin\Debug\netcoreapp3.1\Strings_Pelky_Annalesa.runtimeconfig.dev.json
+C:\Users\annalesa.pelky\source\repos\Strings_Pelky_Annalesa\Strings_Pelky_Annalesa\bin\Debug\netcoreapp3.1\Strings_Pelky_Annalesa.dll
+C:\Users\annalesa.pelky\source\repos\Strings_Pelky_Annalesa\Strings_Pelky_Annalesa\bin\Debug\netcoreapp3.1\Strings_Pelky_Annalesa.pdb
+C:\Users\annalesa.pelky\source\repos\Strings_Pelky_Annalesa\Strings_Pelky_Annalesa\obj\Debug\netcoreapp3.1\Strings_Pelky_Annalesa.csproj.AssemblyReference.cache
+C:\Users\annalesa.pelky\source\repos\Strings_Pelky_Annalesa\Strings_Pelky_Annalesa\obj\Debug\netcoreapp3.1\Strings_Pelky_Annalesa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annalesa.pelky\source\repos\Strings_Pelky_Annalesa\Strings_Pelky_Annalesa\obj\Debug\netcoreapp3.1\Strings_Pelky_Annalesa.AssemblyInfoInputs.cache
+C:\Users\annalesa.pelky\source\repos\Strings_Pelky_Annalesa\Strings_Pelky_Annalesa\obj\Debug\netcoreapp3.1\Strings_Pelky_Annalesa.AssemblyInfo.cs
+C:\Users\annalesa.pelky\source\repos\Strings_Pelky_Annalesa\Strings_Pelky_Annalesa\obj\Debug\netcoreapp3.1\Strings_Pelky_Annalesa.csproj.CoreCompileInputs.cache
+C:\Users\annalesa.pelky\source\repos\Strings_Pelky_Annalesa\Strings_Pelky_Annalesa\obj\Debug\netcoreapp3.1\Strings_Pelky_Annalesa.dll
+C:\Users\annalesa.pelky\source\repos\Strings_Pelky_Annalesa\Strings_Pelky_Annalesa\obj\Debug\netcoreapp3.1\Strings_Pelky_Annalesa.pdb
+C:\Users\annalesa.pelky\source\repos\Strings_Pelky_Annalesa\Strings_Pelky_Annalesa\obj\Debug\netcoreapp3.1\Strings_Pelky_Annalesa.genruntimeconfig.cache
